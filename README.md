@@ -53,7 +53,7 @@ Conceitos:
 
 ## <img src="https://media.giphy.com/media/hWhzyAxIu6rVS5AKbP/giphy.gif" align="center"  height="70" width="80"> Social:
 
-Follow me @RafaRz76Dev :wink:
+&nbsp;Connect with me @RafaRz76Dev :wink:
 <br />
 
 - [LinkedIn](https://www.linkedin.com/in/rafael-raizer/)
