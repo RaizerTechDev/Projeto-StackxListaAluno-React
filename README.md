@@ -4,9 +4,10 @@
 
 ## <div align="center">[Clique aqui para acessar o Projeto](https://rafarz76dev-stackxlistaaluno-react.netlify.app/)
 
-
+***
 <div align="center">
-<img width="1212" alt="Screen Shot 2022-07-21 at 22 39 08" src="https://user-images.githubusercontent.com/57332512/180343099-cc737955-3665-45f9-9fd8-be15a843b178.png">
+<img src="Projeto-StackxListaAluno-React.png" align="center" height="500em" width="100%" href="https://rafarz76dev-stackxlistaaluno-react.netlify.app/">
+
  </div>
 
 ## <img src="https://media.giphy.com/media/eBqEQyWGdgSNgRVLCV/giphy.gif" align="center" height="95" width="95"> Tecnologias
