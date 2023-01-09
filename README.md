@@ -59,10 +59,10 @@ Conceitos:
 Follow me @RafaRz76Dev :wink:
 <br />
 
-- [LinkedIn](<https[label](vscode-file://vscode-app/c%3A/Develop/ide/Visual%20Studio%20Code/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html)://www.linkedin.com/in/rafael-raizer/>)
+- [LinkedIn](https://www.linkedin.com/in/rafael-raizer/)
 - [Whatsapp](https://api.whatsapp.com/send/?phone=47999327137)
 - [Telegram](https://t.me/RafaRaizer76)
-- [Gmail](https://mailto:rafaelraizer76@gmail.com)
+- [Gmail](mailto:rafaelraizer76@gmail.com)
 
 <br />
 
