@@ -4,25 +4,20 @@
 
 ## <div align="center">[Clique aqui para acessar o Projeto](https://rafarz76dev-stackxlistaaluno-react.netlify.app/)
 
-***
+
 <div align="center">
 <img src="Projeto-StackxListaAluno-React.png" align="center" height="500em" width="100%" href="https://rafarz76dev-stackxlistaaluno-react.netlify.app/">
 
  </div>
-
-## <img src="https://media.giphy.com/media/eBqEQyWGdgSNgRVLCV/giphy.gif" align="center" height="95" width="95"> Tecnologias
-  
+ 
 ***
-  
-
+## <img src="https://media.giphy.com/media/eBqEQyWGdgSNgRVLCV/giphy.gif" align="center" height="95" width="95"> Tecnologias 
 Projeto desenvolvido para conceitos iniciais em React, com as seguintes tecnologias:
-
 - [ReactJS](https://reactjs.org/)
 - Vite
 - CSS
 
 Conceitos:
-
 - Props
 - Component
 - Modules
