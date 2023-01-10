@@ -61,6 +61,11 @@ Conceitos:
 - [Telegram](https://t.me/RafaRaizer76)
 - [Gmail](mailto:rafaelraizer76@gmail.com)
 
+***
+### ▶ 😀👀 Bora lá....
+
+### Gostou, então já clica na 🌟
+
 <br />
 
 ---
